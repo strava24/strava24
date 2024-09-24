@@ -1,11 +1,11 @@
+<h1 align="center">Hello World, I'm Stravakske Fernando</h1>
+<h3 align="center">A Computer Science Undergraduate from Sri Lanka</h3>
+
 <div align="center">
   <img height="" src="https://images.rawpixel.com/image_social_landscape/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDI0LTAyL3Jhd3BpeGVsb2ZmaWNlMTVfYV9taW5pbWFsX2FuZF9sZXNzX2RldGFpbF9pbGx1c3RyYXRpb25fb2ZfYV9sb19kOTgwNTI4Mi03NGVkLTQyZWEtYTNjMS0wOWU4MjgzN2EzYzZfMS5qcGc.jpg"  />
 </div>
 
 ###
-
-<h1 align="center">Hello World, I'm Stravakske Fernando</h1>
-<h3 align="center">A Computer Science Undergraduate from Sri Lanka</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=strava24&label=Profile%20views&color=0e75b6&style=flat" alt="strava24" /> </p>
 
