@@ -44,12 +44,13 @@
 
 <h3 align="right">Connect with me</h3>
 <p align="right">
-  <a href="https://linkedin.com/in/www.linkedin.com/in/strava" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/strava" height="30" width="40" />
+  <a href="www.linkedin.com/in/strava" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo"  />
   </a>
-  <a href="https://instagram.com/https://www.instagram.com/strxvaa.__/" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/strxvaa.__/" height="30" width="40" />
+  <a href="https://www.instagram.com/strxvaa.__/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="instagram logo"  />
   </a>
+
   <a href="https://www.leetcode.com/strava" target="blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="strava" height="30" width="40" />
   </a>
