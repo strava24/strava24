@@ -9,7 +9,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=strava24&label=Profile%20views&color=0e75b6&style=flat" alt="strava24" /> </p>
 
-- 🔭 I’m currently working on **improving my skills**
+- 🔭 I’m currently working on: 
+     - _Oculus Nova_
+     - _Real Time Ticketing System_
 
 - 📫 How to reach me **stravanskefernando24@gmail.com**
 
