@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=strava24&label=Profile%20views&color=0e75b6&style=flat" alt="strava24" /> </p>
 
-- 🔭 I’m currently working on **Oculus Nove & Real Time Ticketing System**
+- 🔭 I’m currently working on **Oculus Nove**
 
-- 🌱 I’m currently learning **Angular**
+- 🌱 I’m currently learning **Express.JS**
 
 - 📫 How to reach me **stravanskefernando24@gmail.com**
 
