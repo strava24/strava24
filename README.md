@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **Oculus Nove & Real Time Ticketing System**
+- 🔭 I’m currently working on **Oculus Nove**
 
-- 🌱 I’m currently learning **Angular**
+- 🌱 I’m currently learning **Express.js**
 
 - 📫 How to reach me **stravanskefernando24@gmail.com**
 
