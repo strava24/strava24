@@ -1,4 +1,4 @@
-<h1 align="center">Hello World, I'm Stravakske Fernando</h1>
+<h1 align="center">Hello World  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="30px" /> <br> I'm Stravakske Fernando : aka Strava</h1>
 <h3 align="center">A Computer Science Undergraduate from Sri Lanka</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=strava24&label=Profile%20views&color=0e75b6&style=flat" alt="strava24" /> </p>
@@ -52,6 +52,7 @@
 <p align="center">  
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
   <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 
+   <a href="https://www.npmjs.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/npmjs/npmjs-ar21.svg" alt="npm" width="40" height="40" /> </a>
   <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a>   
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
 </p>
