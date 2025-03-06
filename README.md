@@ -1,4 +1,4 @@
-# <div align="center">👋 Hello World! I'm Stravakske Fernando</div>
+# <div align="center"><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="30px" /> Hello World! I'm Stravakske Fernando</div>
 <div align="center"><b>~ aka Strava ~</b></div>
 <div align="center"><i>Computer Science Undergraduate from Sri Lanka</i></div>
 
