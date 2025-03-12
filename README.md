@@ -14,7 +14,7 @@
 ## 🚀 About Me
 
 - 🔭 Currently working on **Oculus Nova**
-- 🌱 Currently learning **scikit-learn**
+- 🌱 Currently learning **scikit-learn** & **React**
 - 📧 Reach me at **stravanskefernando24@gmail.com**
 - ⚡ Fun fact: **I'm also into cubing!**
 
