@@ -2,7 +2,10 @@
 <div align="center"><b>~ aka Strava ~</b></div>
 <div align="center"><i>Computer Science Undergraduate from Sri Lanka</i></div>
 
-<br>
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2D9EF0&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;ML-Enthusiast;" alt="Typing SVG" />
+</div>
 
 <div align="center">
   
