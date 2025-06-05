@@ -16,7 +16,7 @@
 
 ## 🚀 About Me
 
-- 🔭 Currently working at [Calcey](https://calcey.com/)
+- 🔭 Working at [Calcey](https://calcey.com/)
 - 🌱 Currently learning **scikit-learn** & **React**
 - 📧 Reach me at **stravanskefernando24@gmail.com**
 - ⚡ Fun fact: **I'm also into cubing!**
