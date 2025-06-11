@@ -16,7 +16,7 @@
 
 ## 🚀 About Me
 
-- 🔭 Working at [Calcey](https://calcey.com/)
+- 🔭 Inter Software Engineer @[Calcey](https://calcey.com/)
 - 🌱 Currently learning **Android Development** & **Docker**
 - 📧 Reach me at **stravanskefernando24@gmail.com**
 - ⚡ Fun fact: **I'm also into cubing!**
