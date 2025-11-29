@@ -16,8 +16,8 @@
 
 ## 🚀 About Me
 
-- 🔭 Intern Software Engineer @[Calcey](https://calcey.com/)
-- 🌱 Currently learning **Android Development** & **Docker**
+- 🔭 Software Engineer @[Calcey](https://calcey.com/)
+- 🌱 Currently learning **System Design** & **DevOps Principles**
 - 📧 Reach me at **stravanskefernando24@gmail.com**
 - ⚡ Fun fact: **I'm also into cubing!**
 
