@@ -45,7 +45,6 @@
 ## 💻 Tech Stack
 
 <div align="center">
-  <sub><b>LANGUAGES</b></sub>
   <br>
   <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000" alt="JavaScript" />
@@ -53,10 +52,7 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=fff" alt="Python" />
 </div>
 
-<br>
-
 <div align="center">
-  <sub><b>BACKEND</b></sub>
   <br>
   <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=fff" alt="Spring Boot" />
   <img src="https://img.shields.io/badge/Spring%20Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=fff" alt="Spring Security" />
@@ -66,20 +62,14 @@
   <img src="https://img.shields.io/badge/Frappe%20%2F%20ERPNext-0089FF?style=flat-square&logoColor=fff" alt="Frappe" />
 </div>
 
-<br>
-
 <div align="center">
-  <sub><b>MACHINE LEARNING</b></sub>
   <br>
   <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" alt="scikit-learn" />
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" alt="TensorFlow" />
   <img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white" alt="Keras" />
 </div>
 
-<br>
-
 <div align="center">
-  <sub><b>FRONTEND &AMP; DESIGN</b></sub>
   <br>
   <img src="https://img.shields.io/badge/React-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB" alt="React" />
   <img src="https://img.shields.io/badge/Angular-%23DD0031.svg?style=flat-square&logo=angular&logoColor=white" alt="Angular" />
@@ -89,10 +79,7 @@
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" alt="Figma" />
 </div>
 
-<br>
-
 <div align="center">
-  <sub><b>DATABASES &AMP; MONITORING</b></sub>
   <br>
   <img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white" alt="MariaDB" />
   <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
@@ -104,10 +91,7 @@
   <img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white" alt="Grafana" />
 </div>
 
-<br>
-
 <div align="center">
-  <sub><b>CLOUD &AMP; TOOLS</b></sub>
   <br>
   <img src="https://custom-icon-badges.demolab.com/badge/AWS-%23FF9900.svg?style=flat-square&logo=aws&logoColor=white" alt="AWS" />
   <img src="https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=flat-square&logo=google-cloud&logoColor=white" alt="Google Cloud" />
