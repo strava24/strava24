@@ -32,17 +32,22 @@ off_clock:  Speedcubing, chasing a faster solve
 ### `strava@github:~$ ls ~/stack`
 
 ```bash
-languages/   Java  JavaScript  TypeScript  Python
-backend/     Spring Boot  Spring Security  Node.js  Express.js  Firebase Studio  Frappe/ERPNext
-ml/          scikit-learn  TensorFlow  Keras
-frontend/    React  Angular  Vue.js  Android  Tailwind CSS  Figma
-data/        MariaDB  MongoDB  MySQL  Postgres  Redis  InfluxDB  Prometheus  Grafana
-cloud/tools/ AWS  Google Cloud  Git  Linux  Postman  Swagger
+languages/      Java  JavaScript  TypeScript  Python
+backend/        Spring Boot  Spring Security  Node.js  Express.js
+                Frappe/ERPNext  Apache Kafka  Protobuf  Keycloak
+frontend/       React  Angular  Vue.js  Android  Tailwind CSS  Figma
+ml-ai/          scikit-learn  TensorFlow  Keras  NumPy  Pandas
+                Jupyter  MLflow
+databases/      PostgreSQL  MariaDB  MySQL  MongoDB  Redis  InfluxDB
+devops/         Docker  Docker Compose  Kubernetes  GitHub Actions
+cloud/          AWS  Google Cloud
+monitoring/     Prometheus  Grafana
+tools/          Git  Linux  Postman  Swagger/OpenAPI  Maven  Colima
 ```
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=java,js,ts,python,spring,nodejs,express,firebase,tensorflow,react,angular,vue,androidstudio,tailwind,figma,mariadb,mongodb,mysql,postgres,redis,prometheus,grafana,aws,gcp,git,linux,postman,swagger&perline=10" alt="Tech stack" />
+<img src="https://skillicons.dev/icons?i=java,js,ts,python,spring,nodejs,express,firebase,tensorflow,sklearn,react,angular,vue,androidstudio,tailwind,figma,mongodb,mysql,postgres,redis,kafka,docker,kubernetes,githubactions,aws,gcp,prometheus,grafana,git,linux,postman&perline=10" alt="Tech stack" />
 
 </div>
 
@@ -51,10 +56,6 @@ cloud/tools/ AWS  Google Cloud  Git  Linux  Postman  Swagger
 ### `strava@github:~$ git log --stat --author=strava24`
 
 <div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs?username=strava24&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top languages" />
-
-<br>
 
 [![Profile Views](https://komarev.com/ghpvc/?username=strava24&label=Profile%20views&color=00ff9c&labelColor=0D1117&style=flat)](https://github.com/strava24)
 [![GitHub followers](https://img.shields.io/github/followers/strava24?style=flat&color=00ff9c&labelColor=0D1117)](https://github.com/strava24)
