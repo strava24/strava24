@@ -39,7 +39,7 @@ frontend/       React  Angular  Vue.js  Android  Tailwind CSS  Figma
 ml-ai/          scikit-learn  TensorFlow  Keras  NumPy  Pandas
                 Jupyter  MLflow
 databases/      PostgreSQL  MariaDB  MySQL  MongoDB  Redis  InfluxDB
-devops/         Docker  Docker Compose  Kubernetes  GitHub Actions
+devops/         Docker  Docker Compose  GitHub Actions
 cloud/          AWS  Google Cloud
 monitoring/     Prometheus  Grafana
 tools/          Git  Linux  Postman  Swagger/OpenAPI  Maven  Colima
@@ -47,7 +47,7 @@ tools/          Git  Linux  Postman  Swagger/OpenAPI  Maven  Colima
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=java,js,ts,python,spring,nodejs,express,firebase,tensorflow,sklearn,react,angular,vue,androidstudio,tailwind,figma,mongodb,mysql,postgres,redis,kafka,docker,kubernetes,githubactions,aws,gcp,prometheus,grafana,git,linux,postman&perline=10" alt="Tech stack" />
+<img src="https://skillicons.dev/icons?i=java,js,ts,python,spring,nodejs,express,firebase,tensorflow,sklearn,react,angular,vue,androidstudio,tailwind,figma,mongodb,mysql,postgres,redis,kafka,docker,githubactions,aws,gcp,prometheus,grafana,git,linux,postman&perline=10" alt="Tech stack" />
 
 </div>
 
